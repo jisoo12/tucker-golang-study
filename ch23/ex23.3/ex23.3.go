@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 type PasswordError struct {
-	len				int
+	len					int
 	RequireLen	int
 }
 
